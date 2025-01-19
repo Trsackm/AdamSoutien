@@ -4,9 +4,9 @@
 
 **Exercice 1 - Racines carrées et triangles**
 
-1. On considère trois points A, B et C du plan tels que : $$ AB = 2\sqrt{45}, BC = 6\sqrt{5}, AC = 2\sqrt{20} $$ Quelle est la nature du triangle ABC? 
+1. On considère trois points A, B et C du plan tels que : $$AB = 2\sqrt{45}, BC = 6\sqrt{5}, AC = 2\sqrt{20}$$ Quelle est la nature du triangle ABC? 
 
-2. On considère trois points E, F et G du plan tels que: $$ EF = 2\sqrt{7} +3, FG = 3\sqrt{7}-2, EG = 2\sqrt{26} $$ Quelle est la nature du triangle? 
+2. On considère trois points E, F et G du plan tels que: $$EF = 2\sqrt{7} +3, FG = 3\sqrt{7}-2, EG = 2\sqrt{26}$$ Quelle est la nature du triangle? 
 
 **Exercice 2 - passage à l'inverse et racine carrée**
 
@@ -28,7 +28,7 @@
 
 **Exercice 4 - Vraiment égaux**
 
-Démontrer que: $$ (1+2\sqrt{3}) = \sqrt{13+4\sqrt{3}} $$
+Démontrer que: $$(1+2\sqrt{3}) = \sqrt{13+4\sqrt{3}}$$
 **PUISSANCES**
 
 **Exercice 5 - Simplifier**
@@ -36,10 +36,10 @@ Démontrer que: $$ (1+2\sqrt{3}) = \sqrt{13+4\sqrt{3}} $$
 Simplifier les écritures suivantes , lorsque c'est possible : 
 
 **1.** $$\frac{(x^3)^4}{x^{12}}$$
-**2.** $$ a^2ba^3b^2$$
-**3.** $$ \frac{a^2b^3}{a^3b} $$
-**4.** $$ (a^{-2}b^3)^2 $$
-**5.** $$ \frac{a^2+ab}{a^3} $$
+**2.** $$a^2ba^3b^2$$
+**3.** $$\frac{a^2b^3}{a^3b}$$
+**4.** $$(a^{-2}b^3)^2$$
+**5.** $$\frac{a^2+ab}{a^3}$$
 **6.** $$\frac{a^2+b^2}{ab}$$
 **IDENTITÉS REMARQUABLES  - FACTORISATION**
 
@@ -52,20 +52,20 @@ Simplifier les écritures suivantes , lorsque c'est possible :
 
 Factoriser les équations suivantes : 
 
-1. $$ (2x-1)(4x+4) + (-4x+2)(x+3) = 0 $$
+1. $$(2x-1)(4x+4) + (-4x+2)(x+3) = 0$$
 2. $$5x(3x+2)=(3x+2)^2$$
 
 **CALCUL LITTÉRAL**
 
 **Exercice 13**
 
-Démontrer que, si $x \neq 2$, alors: $$ \frac{x^3-x-3}{x-2}=x+1-\frac{1}{x-2} $$
+Démontrer que, si $x \neq 2$, alors: $$\frac{x^3-x-3}{x-2}=x+1-\frac{1}{x-2}$$
 **Exercice 14 - Une seule fraction**
 
 Dans les expressions suivantes, le réel $x$ est choisi de sorte que les dénominateurs ne s'annulent pas. Écrire les expressions comme une seule fraction.
 
-**1.** $$ \frac{x}{4}+\frac{4}{x}$$ **2.** $$2+\frac{3}{x+1}$$
-**3.** $$ \frac{x+7}{x+1}-\frac{x+3}{x+4}$$
+**1.** $$\frac{x}{4}+\frac{4}{x}$$ **2.** $$2+\frac{3}{x+1}$$
+**3.** $$\frac{x+7}{x+1}-\frac{x+3}{x+4}$$
 
 **DEVOIRS :** 
 
